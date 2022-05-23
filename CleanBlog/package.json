@@ -1,0 +1,14 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "A modern blog project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Sevim Selin Özsoy",
+  "license": "ISC"
+}

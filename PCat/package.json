@@ -1,0 +1,25 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCat Photo App",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Sevim Selin Özsoy",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "prettier": "2.6.2"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
